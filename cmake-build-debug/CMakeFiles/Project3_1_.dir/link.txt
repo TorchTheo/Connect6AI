@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Project3_1_.dir/main.cpp.o CMakeFiles/Project3_1_.dir/ClientSocket.cpp.o CMakeFiles/Project3_1_.dir/Reversi.cpp.o -o Project3_1_ 
